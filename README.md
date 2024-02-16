@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhengisnothere
+- 👋 Hi, I’m @zhengishere
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning python and pygame
 
