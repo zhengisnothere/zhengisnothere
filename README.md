@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhengishere
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning python and pygame
+- 🌱 I’m currently learning HTML, CSS, and javascript.
 
 <!---
 zhengisnothere/zhengisnothere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
